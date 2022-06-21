@@ -1,0 +1,1 @@
+alert(`You are ${input} years old`);
