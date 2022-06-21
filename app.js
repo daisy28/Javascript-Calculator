@@ -1,3 +1,10 @@
+// A basic calculator used on the cli terminal
+// To carry out operations, run this on the terminal while inside the directory
+// node app.js 2 "*" 2 -- Multiplication
+// node app.js 2 "+" 2 -- Addition
+// node app.js 2 "-" 2 -- Subtraction
+// node app.js 2 "/" 2 -- Division
+
 const operators = {
   add: '+',
   subtract: '-',
